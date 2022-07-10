@@ -1,0 +1,43 @@
+
+body{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+#main{
+    background-color: rgba(245, 245, 245, 0.888);
+}
+
+#title{
+    text-align: center;
+}
+#image{
+    height: 500px;
+    padding: 10px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption{
+    text-align: center;
+    /* background-color: white; */
+    padding: 10px;
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+.footer{
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+
+}
+.link{
+    text-align: center;
+    padding: 20px;
+}
